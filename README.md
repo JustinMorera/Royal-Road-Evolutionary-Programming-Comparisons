@@ -70,7 +70,9 @@ Custom Graphing (e.g., Mike's Grapher):
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.​
 
 ---
+
 Feel free to customize the rr.params file to experiment with different configurations and observe how the genetic algorithm performs under various settings.​
+
 ---
 
 If you have any questions or need further assistance, please contant [Justin Morera](mailto:mustinjorera@gmail.com)
