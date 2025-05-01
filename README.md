@@ -2,15 +2,15 @@
 This project implements and compares various evolutionary programming techniques applied to the Royal Road problem. The Royal Road problem is designed to evaluate the performance of genetic algorithms by providing a fitness landscape with building blocks that can be combined to form optimal solutions.​
 
 ## Table of Contents
-* Overview
-* Features
-* Prerequisites
-* Usage
-  * Compiling the Java Code
-  * Running the Program
-  * Generating Graphs
-* Project Structure
-* License
+* [Overview](#Overview)
+* [Features](#Features)
+* [Prerequisites](#Prerequisites)
+* [Usage](#Usage)
+  * [Compiling the Java Code](#Compiling-the-Java-Code)
+  * [Running the Program](#Running-the-Program)
+  * [Generating Graphs](#Generating-Graphs)
+* [Project Structure](#Project-Structure)
+* [License](#LICENSE)
 
 ## Overview
 The repository contains implementations of genetic algorithms tailored for the Royal Road problem. It allows users to experiment with different parameters and observe the performance and behavior of the algorithms through generated graphs and data.​
@@ -66,7 +66,7 @@ Custom Graphing (e.g., Mike's Grapher):
 ```
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.​
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.​
 ---
 Feel free to customize the rr.params file to experiment with different configurations and observe how the genetic algorithm performs under various settings.​
 ---
